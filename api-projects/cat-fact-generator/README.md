@@ -2,7 +2,7 @@
 
 Here we will see some random fact about cat.
 
-### waht we used:
+### what we used:
 
 - useState
 - useEffect
